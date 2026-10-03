@@ -1,0 +1,48 @@
+==========================================================
+REPORTE DE EVENTOS CRÍTICOS DEL SISTEMA - FECHA: 2026-10-02
+==========================================================
+-> [2026-10-02T22:09:30.653558-05:00 debian kernel:] | Origen: 0000:00:15.0: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653561-05:00 debian kernel:] | Origen: 0000:00:15.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653566-05:00 debian kernel:] | Origen: 0000:00:15.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653573-05:00 debian kernel:] | Origen: 0000:00:15.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653581-05:00 debian kernel:] | Origen: 0000:00:15.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653583-05:00 debian kernel:] | Origen: 0000:00:15.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653585-05:00 debian kernel:] | Origen: 0000:00:16.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653587-05:00 debian kernel:] | Origen: 0000:00:16.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653589-05:00 debian kernel:] | Origen: 0000:00:16.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653593-05:00 debian kernel:] | Origen: 0000:00:16.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653600-05:00 debian kernel:] | Origen: 0000:00:16.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653603-05:00 debian kernel:] | Origen: 0000:00:17.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653609-05:00 debian kernel:] | Origen: 0000:00:17.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653615-05:00 debian kernel:] | Origen: 0000:00:17.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653618-05:00 debian kernel:] | Origen: 0000:00:17.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653620-05:00 debian kernel:] | Origen: 0000:00:17.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653627-05:00 debian kernel:] | Origen: 0000:00:18.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653674-05:00 debian kernel:] | Origen: 0000:00:18.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653683-05:00 debian kernel:] | Origen: 0000:00:18.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653690-05:00 debian kernel:] | Origen: 0000:00:18.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653694-05:00 debian kernel:] | Origen: 0000:00:18.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653698-05:00 debian kernel:] | Origen: 0000:00:18.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653705-05:00 debian kernel:] | Origen: 0000:00:18.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653711-05:00 debian kernel:] | Origen: 0000:00:18.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653754-05:00 debian kernel:] | Origen: 0000:00:18.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653760-05:00 debian kernel:] | Origen: 0000:00:18.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653805-05:00 debian kernel:] | Origen: 0000:00:17.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653811-05:00 debian kernel:] | Origen: 0000:00:17.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653817-05:00 debian kernel:] | Origen: 0000:00:17.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653823-05:00 debian kernel:] | Origen: 0000:00:17.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653828-05:00 debian kernel:] | Origen: 0000:00:17.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653833-05:00 debian kernel:] | Origen: 0000:00:16.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653840-05:00 debian kernel:] | Origen: 0000:00:16.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653846-05:00 debian kernel:] | Origen: 0000:00:16.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653888-05:00 debian kernel:] | Origen: 0000:00:16.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653894-05:00 debian kernel:] | Origen: 0000:00:16.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653900-05:00 debian kernel:] | Origen: 0000:00:15.7: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653989-05:00 debian kernel:] | Origen: 0000:00:15.6: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653992-05:00 debian kernel:] | Origen: 0000:00:15.5: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.653999-05:00 debian kernel:] | Origen: 0000:00:15.4: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.654003-05:00 debian kernel:] | Origen: 0000:00:15.3: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.654012-05:00 debian kernel:] | Origen: 0000:00:15.0: | Detalle: bridge window [io size 0x1000]: failed to assign 
+-> [2026-10-02T22:09:30.656988-05:00 debian kernel:] | Origen: Correctable | Detalle: [!!!] ERRORs collector initialized. 
+-> [2026-10-02T22:11:14.911009-05:00 debian wireplumber[1143]:] | Origen: <WpAsyncEventHook:0x55d0672c0fd0> | Detalle: failed: failed to activate item: Object activation aborted: proxy destroyed 
+==========================================================
